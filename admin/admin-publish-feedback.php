@@ -76,7 +76,7 @@
           </div>
           <div class="card-footer small text-muted">
             <?php
-              date_default_timezone_set("Africa/Nairobi");
+              date_default_timezone_set("Asia/Bangkok");
               echo "Generated On : " . date("h:i:sa");
             ?> 
         </div>
